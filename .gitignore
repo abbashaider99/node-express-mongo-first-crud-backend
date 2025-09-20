@@ -1,0 +1,40 @@
+# Node modules
+/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build output (if any)
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# VS Code settings
+.vscode/
+!.vscode/settings.json
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage folder (if using testing)
+coverage/
